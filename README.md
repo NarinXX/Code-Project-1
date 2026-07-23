@@ -1,5 +1,5 @@
 # Code-Project-1
-#A simple Python program that checks if a user is tall enough to ride a rollercoaster and calculates the ticket price based on age.
+A simple Python program that checks if a user is tall enough to ride a rollercoaster and calculates the ticket price based on age.
 
 print("Welcome to the Rollercoaster!")
 height = int(input("Enter your height in cm? "))
